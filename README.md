@@ -91,6 +91,36 @@
 ## Extensiones
 
 - TODO Tree: Añadir en los ajustes `**/node_modules/**` en `Exclude Globs`.
+
+  ```json
+  "todo-tree.highlights.customHighlight": {
+    "TODO": {
+      "icon": "check",
+      "type": "line",
+      "foreground": "#FFF",
+      "background": "#0d6efd",
+      "iconColour": "#0d6efd",
+      "gutterIcon": true
+    },
+    "FIXME": {
+      "icon": "tools",
+      "type": "line",
+      "foreground": "#000",
+      "background": "#ffdb0d",
+      "iconColour": "#ffdb0d",
+      "gutterIcon": true
+    },
+    "BUG": {
+      "icon": "alert",
+      "type": "line",
+      "foreground": "#000",
+      "background": "#ff0000",
+      "iconColour": "#ff0000",
+      "gutterIcon": true
+    }
+  }
+  ```
+
 - Bookmarks: Podemos añadir o quitar una marca con `Ctrl + Alt + K`.
 - Color Highlight: poner en `Marker Type` el valor `dot-before`, dentro de los ajustes.
 - Bracket Pair Colorizer 2: añadir en los ajustes la siguiente configuración.
