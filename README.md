@@ -97,25 +97,25 @@
     "TODO": {
       "icon": "check",
       "type": "line",
-      "foreground": "#FFF",
-      "background": "#0d6efd",
-      "iconColour": "#0d6efd",
+      "foreground": "#0D6EFF",
+      "background": "#031B40",
+      "iconColour": "#031B40",
       "gutterIcon": true
     },
     "FIXME": {
       "icon": "tools",
       "type": "line",
-      "foreground": "#000",
-      "background": "#ffdb0d",
-      "iconColour": "#ffdb0d",
+      "foreground": "#FFDB0D",
+      "background": "#403703",
+      "iconColour": "#403703",
       "gutterIcon": true
     },
     "BUG": {
       "icon": "alert",
       "type": "line",
-      "foreground": "#000",
-      "background": "#ff0000",
-      "iconColour": "#ff0000",
+      "foreground": "#FF0000",
+      "background": "#400000",
+      "iconColour": "#400000",
       "gutterIcon": true
     }
   }
