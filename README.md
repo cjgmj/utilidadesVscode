@@ -99,7 +99,7 @@
       "type": "line",
       "foreground": "#0D6EFF",
       "background": "#031B40",
-      "iconColour": "#031B40",
+      "iconColour": "#0D6EFF",
       "gutterIcon": true
     },
     "FIXME": {
@@ -107,7 +107,7 @@
       "type": "line",
       "foreground": "#FFDB0D",
       "background": "#403703",
-      "iconColour": "#403703",
+      "iconColour": "#FFDB0D",
       "gutterIcon": true
     },
     "BUG": {
@@ -115,7 +115,7 @@
       "type": "line",
       "foreground": "#FF0000",
       "background": "#400000",
-      "iconColour": "#400000",
+      "iconColour": "#FF0000",
       "gutterIcon": true
     }
   }
